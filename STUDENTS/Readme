@@ -1,1 +1,12 @@
+SQL Project – Course & Student Enrollment
 
+This project demonstrates basic to intermediate SQL operations using a sample student enrollment database.
+
+---
+
+## 📂 Database Used
+
+- **Database Name:** `DBPROJECT1`
+- Contains two tables:
+  - `courses` – holds course information.
+  - `students` – holds student information linked to courses.
